@@ -8,7 +8,7 @@ namespace аэропорт
 {
     class flight
     {
-        
+        int Number;
 
     
 
