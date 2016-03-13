@@ -8,6 +8,7 @@ namespace аэропорт
 {
    public class passenger_plane:plane
     {
+       public int number_of_seats;
        public passenger_plane(string name,int MSpeed, int MHigh, int Number_of_seats)
         {
             this.name = name;

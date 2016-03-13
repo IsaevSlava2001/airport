@@ -10,9 +10,8 @@ namespace аэропорт
 
     {
      
-        public string name="";
+        public string name;
         public int MSpeed=0;
         public int MHigh=0;
-        public int number_of_seats=0;
     }
 }
